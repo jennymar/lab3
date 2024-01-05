@@ -21,6 +21,9 @@ public class ArrayExamples {
     return newArray;
   }
 
+
+  
+
   // Averages the numbers in the array (takes the mean), but leaves out the
   // lowest number when calculating. Returns 0 if there are no elements or just
   // 1 element in the array
